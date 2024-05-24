@@ -1,5 +1,5 @@
 # Interactive Profile Book 
-check the About section for Live Preview
+Live Preview of my Personal Portfolio                      [for better view - toggle full screen mode or simply minimize the view on your browser]
 
 ![Screenshot 2024-05-24 170108](https://github.com/bhoomikamittal8/Interactive_profile_book/assets/134505091/5667c979-85b3-45ee-822c-959c81ee582e)
 
