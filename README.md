@@ -1,6 +1,5 @@
 # Interactive Profile Book
 
-![Screenshot 2024-05-24 170039](https://github.com/bhoomikamittal8/Interactive_profile_book/assets/134505091/f7e70521-919d-4f01-bcf9-94b76f4bf706)
 ![Screenshot 2024-05-24 170108](https://github.com/bhoomikamittal8/Interactive_profile_book/assets/134505091/5667c979-85b3-45ee-822c-959c81ee582e)
 
 
