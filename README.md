@@ -1,8 +1,6 @@
 # Interactive Profile Book 
 
-
-![Screenshot 2024-05-24 170108](https://github.com/bhoomikamittal8/Interactive_profile_book/assets/134505091/5667c979-85b3-45ee-822c-959c81ee582e)
-
+Live Preview - bhoomika-mittal-portfolio.netlify.app/
 
 This project is an interactive profile book implemented with HTML, CSS, and JavaScript. It features a visually appealing design with animated page turns. The project includes profile information, skills, portfolio, and a contact form, all presented in a book-like format.
 
@@ -35,7 +33,8 @@ This project is an interactive profile book implemented with HTML, CSS, and Java
 - Animations: Custom animations using CSS and JavaScript
 
 
-### Mail ID : bhoomikamittal418@gmail.com
+## Contact 📞
 
+#### If you have any doubt feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal48/)
 
 
